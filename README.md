@@ -1,16 +1,87 @@
-# React + Vite
+# RexGen Workforce - Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, AI-driven Employee Management System (EMS) designed with a modern "Nighthawk Elite" aesthetic. This project provides a robust, scalable, and interactive platform for managing workforce operations with independent portals for Administrators and Employees.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Experience the RexGen Workforce platform live:
+**[Launch NexGen Elite Portal](https://nexgen-elite-portal.loca.lt)**
+*(Note: Requires the local tunnel to be active)*
 
-## React Compiler
+## ✨ Project Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Aesthetic Excellence**: Sleek dark mode interface with glassmorphism and smooth micro-animations.
+- **Bi-Portal Architecture**: Securely separated workflows for comprehensive administrative control and employee self-service.
+- **AI-Driven Analytics**: Integrated intelligence for performance tracking and smart workforce insights.
+- **Interactive Data Viz**: Real-time dashboards showing attendance trends and financial metrics.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👑 Admin Portal | Operations Control
+
+The Administrative hub provides full-spectrum management tools to keep the workforce running efficiently:
+
+- **Employee Lifecycle Management**: Seamlessly add, search, update, and manage employee profiles and digital records.
+- **Dynamic Payroll & Salary**: Automated salary calculation, disbursement tracking, and financial history management.
+- **Workforce Attendance**: Real-time monitoring of attendance logs with daily and monthly overview capabilities.
+- **Task & Productivity Tracking**: Directly assign tasks to employees and monitor productivity through detailed work logs.
+- **Leave Administration**: Centralized system for reviewing, approving, or rejecting employee leave requests.
+
+---
+
+## 👤 Employee Portal | Professional Workspace
+
+The Employee hub empowers staff with self-service tools and a focused productivity environment:
+
+- **Personal Productivity Dashboard**: A clear view of assigned tasks, announcements, and key performance indicators.
+- **Digital Punch System**: Simplified attendance marking with full access to personal attendance history.
+- **Financial Workspace**: Instant access to salary history and one-click downloads for professional salary slips.
+- **Progress Submission**: Log daily work activities and task updates directly through the integrated work-log system.
+- **Leave Management**: Submit time-off requests digitally and track approval status in real-time.
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+- **Framework**: [React 19](https://react.dev/) (Powered by [Vite 8](https://vitejs.dev/))
+- **Styling**: [Bootstrap 5](https://getbootstrap.com/) & Modern Vanilla CSS
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Visualizations**: [Chart.js](https://www.chartjs.org/) & [Recharts](https://recharts.org/)
+- **Navigation**: [React Router DOM 7](https://reactrouter.com/)
+
+### Utility & Export Tools
+- **API Client**: `Axios`
+- **Data Export**: `XLSX` (Excel Support) & `jsPDF` (Professional PDF Reporting)
+- **UI Components**: `React Icons`, `Remixicon`, `React Toastify`
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (Latest LTS version recommended)
+- npm or yarn
+
+### Local Development
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/rohanmane7890/Frontend.git
+   ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+4. **Build for production**:
+   ```bash
+   npm run build
+   ```
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
