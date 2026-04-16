@@ -1,7 +1,15 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# React + Vite
+# Frontend
+>>>>>>> bf75324395c9616cbbc5ec264da7123676820071
+>>>>>>> 0c453d258c06af22c89ad187fd8db86438c12761
 # RexGen Workforce - Employee Management System
 
 A premium, AI-driven Employee Management System (EMS) designed with a modern "Nighthawk Elite" aesthetic. This project provides a robust, scalable, and interactive platform for managing workforce operations with independent portals for Administrators and Employees.
 
+<<<<<<< HEAD
 ## 🌐 Live Demo
 
 Experience the RexGen Workforce platform live:
@@ -21,6 +29,21 @@ Experience the RexGen Workforce platform live:
 
 The Administrative hub provides full-spectrum management tools to keep the workforce running efficiently:
 
+=======
+## ✨ Project Highlights
+
+- **Aesthetic Excellence**: Sleek dark mode interface with glassmorphism and smooth micro-animations.
+- **Bi-Portal Architecture**: Securely separated workflows for comprehensive administrative control and employee self-service.
+- **AI-Driven Analytics**: Integrated intelligence for performance tracking and smart workforce insights.
+- **Interactive Data Viz**: Real-time dashboards showing attendance trends and financial metrics.
+
+---
+
+## 👑 Admin Portal | Operations Control
+
+The Administrative hub provides full-spectrum management tools to keep the workforce running efficiently:
+
+>>>>>>> 0c453d258c06af22c89ad187fd8db86438c12761
 - **Employee Lifecycle Management**: Seamlessly add, search, update, and manage employee profiles and digital records.
 - **Dynamic Payroll & Salary**: Automated salary calculation, disbursement tracking, and financial history management.
 - **Workforce Attendance**: Real-time monitoring of attendance logs with daily and monthly overview capabilities.
@@ -80,7 +103,12 @@ The Employee hub empowers staff with self-service tools and a focused productivi
    ```bash
    npm run build
    ```
+<<<<<<< HEAD
 
+=======
+## Backend Github Repository
+https://github.com/rohanmane7890/ems-backend.git
+>>>>>>> 0c453d258c06af22c89ad187fd8db86438c12761
 ---
 
 ## 📄 License
